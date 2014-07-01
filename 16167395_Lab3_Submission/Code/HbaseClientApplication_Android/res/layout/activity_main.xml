@@ -1,0 +1,51 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/container"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.hbaseclientapplication.MainActivity"
+    tools:ignore="MergeRootFrame" 
+    android:background="#f00">
+
+    <Button
+        android:id="@+id/insertTableButton"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/createTableButton"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="40dp"
+        android:text="Insert Into Table" 
+        android:background="#5ff"/>
+
+    <Button
+        android:id="@+id/retrieveTableButton"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/insertTableButton"
+        android:layout_below="@+id/insertTableButton"
+        android:layout_marginTop="50dp"
+        android:text="Retrieve From Table" 
+        android:background="#5ff" />
+
+    <Button
+        android:id="@+id/deleteTableButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/retrieveTableButton"
+        android:layout_below="@+id/retrieveTableButton"
+        android:layout_marginTop="40dp"
+        android:text="Delete Table" 
+        android:background="#5ff" />
+
+    <Button
+        android:id="@+id/createTableButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/insertTableButton"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="27dp"
+        android:background="#5ff"
+        android:text="Create Table" />
+    
+    </RelativeLayout>
+

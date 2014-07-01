@@ -1,0 +1,191 @@
+
+=============== [2014/06/22 07:31:45, net.neoremind.sshxcute.core.SSHExec.<clinit>:80] ====================
+
+[07:31:45] INFO:    SSHExec initializing ...
+[07:31:45] INFO:    Session initialized and associated with user credential cloudera
+[07:31:45] INFO:    SSHExec initialized successfully
+[07:31:45] INFO:    SSHExec trying to connect cloudera@134.193.136.127
+[07:31:47] INFO:    SSH connection established
+[07:31:47] INFO:    Ready to transfer local file 'E://sensor.txt' to server directory '/home/cloudera/'
+[07:31:48] INFO:    Connection channel established succesfully
+[07:31:48] INFO:    Start to upload
+[07:31:49] INFO:    Upload success
+[07:31:49] INFO:    channel disconnect
+[07:31:49] INFO:    SSH connection shutdown
+
+=============== [2014/06/22 07:32:42, net.neoremind.sshxcute.core.SSHExec.<clinit>:80] ====================
+
+[07:32:42] INFO:    SSHExec initializing ...
+[07:32:42] INFO:    Session initialized and associated with user credential cloudera
+[07:32:42] INFO:    SSHExec initialized successfully
+[07:32:42] INFO:    SSHExec trying to connect cloudera@134.193.136.127
+[07:32:43] INFO:    SSH connection established
+[07:32:43] INFO:    Ready to transfer local file 'E://sensor2.txt' to server directory '/home/cloudera/'
+[07:32:43] INFO:    Connection channel established succesfully
+[07:32:43] INFO:    Start to upload
+[07:32:43] INFO:    Upload success
+[07:32:43] INFO:    channel disconnect
+[07:32:43] INFO:    SSH connection shutdown
+
+=============== [2014/07/01 08:49:31, net.neoremind.sshxcute.core.SSHExec.<clinit>:80] ====================
+
+[08:49:31] INFO:    SSHExec initializing ...
+[08:49:31] INFO:    Session initialized and associated with user credential group4
+[08:49:31] INFO:    SSHExec initialized successfully
+[08:49:31] INFO:    SSHExec trying to connect group4@134.193.136.127
+[08:49:34] INFO:    SSH connection established
+[08:49:34] INFO:    Ready to transfer local file 'C://rakesh/Drive F/Summer2014/Big Data/sensorRakesh2.txt' to server directory '/home/cloudera/'
+[08:49:35] INFO:    Connection channel established succesfully
+[08:49:35] INFO:    Start to upload
+[08:49:35] INFO:    C://rakesh/Drive F/Summer2014/Big Data/sensorRakesh2.txtcheck fails
+[08:49:35] INFO:    SSH connection shutdown
+
+=============== [2014/07/01 10:47:30, net.neoremind.sshxcute.core.SSHExec.<clinit>:80] ====================
+
+[10:47:30] INFO:    SSHExec initializing ...
+[10:47:30] INFO:    Session initialized and associated with user credential group4
+[10:47:30] INFO:    SSHExec initialized successfully
+[10:47:31] INFO:    SSHExec trying to connect group4@134.193.136.127
+
+=============== [2014/07/01 10:47:32, net.neoremind.sshxcute.core.SSHExec.<clinit>:80] ====================
+
+[10:47:32] INFO:    SSHExec initializing ...
+[10:47:33] INFO:    Session initialized and associated with user credential group4
+[10:47:33] INFO:    SSHExec initialized successfully
+[10:47:33] INFO:    SSHExec trying to connect group4@134.193.136.127
+[10:47:52] ERROR:   Connect fails with the following exception: com.jcraft.jsch.JSchException: java.net.ConnectException: Connection timed out: connect
+[10:47:52] INFO:    Ready to transfer local file 'C://rakesh/Drive F/Summer2014/Big Data/sensorRakesh2.txt' to server directory '/home/cloudera/'
+[10:47:52] INFO:    SSH connection shutdown
+[10:47:54] ERROR:   Connect fails with the following exception: com.jcraft.jsch.JSchException: java.net.ConnectException: Connection timed out: connect
+[10:47:54] INFO:    Ready to transfer local file 'C://rakesh/Drive F/Summer2014/Big Data/sensorRakesh2.txt' to server directory '/home/cloudera/'
+[10:47:54] INFO:    SSH connection shutdown
+
+=============== [2014/07/01 10:48:43, net.neoremind.sshxcute.core.SSHExec.<clinit>:80] ====================
+
+[10:48:43] INFO:    SSHExec initializing ...
+[10:48:43] INFO:    Session initialized and associated with user credential group4
+[10:48:43] INFO:    SSHExec initialized successfully
+[10:48:43] INFO:    SSHExec trying to connect group4@134.193.136.127
+[10:48:45] INFO:    SSH connection established
+[10:48:45] INFO:    Ready to transfer local file 'C://rakesh/Drive F/Summer2014/Big Data/sensorRakesh2.txt' to server directory '/home/cloudera/'
+[10:48:45] INFO:    Connection channel established succesfully
+[10:48:45] INFO:    Start to upload
+[10:48:45] INFO:    C://rakesh/Drive F/Summer2014/Big Data/sensorRakesh2.txtcheck fails
+[10:48:45] INFO:    SSH connection shutdown
+
+=============== [2014/07/01 10:48:57, net.neoremind.sshxcute.core.SSHExec.<clinit>:80] ====================
+
+[10:48:57] INFO:    SSHExec initializing ...
+[10:48:57] INFO:    Session initialized and associated with user credential group4
+[10:48:57] INFO:    SSHExec initialized successfully
+[10:48:57] INFO:    SSHExec trying to connect group4@134.193.136.127
+[10:48:59] INFO:    SSH connection established
+[10:48:59] INFO:    Ready to transfer local file 'C:/rakesh/Drive F/Summer2014/Big Data/sensorRakesh2.txt' to server directory '/home/cloudera/'
+[10:48:59] INFO:    Connection channel established succesfully
+[10:48:59] INFO:    Start to upload
+[10:48:59] INFO:    C:/rakesh/Drive F/Summer2014/Big Data/sensorRakesh2.txtcheck fails
+[10:48:59] INFO:    SSH connection shutdown
+
+=============== [2014/07/01 10:50:14, net.neoremind.sshxcute.core.SSHExec.<clinit>:80] ====================
+
+[10:50:14] INFO:    SSHExec initializing ...
+[10:50:14] INFO:    Session initialized and associated with user credential group4
+[10:50:14] INFO:    SSHExec initialized successfully
+[10:50:14] INFO:    SSHExec trying to connect group4@134.193.136.127
+[10:50:16] INFO:    SSH connection established
+[10:50:16] INFO:    Ready to transfer local file 'C://sensorRakesh2.txt' to server directory '/home/cloudera/'
+[10:50:16] INFO:    Connection channel established succesfully
+[10:50:16] INFO:    Start to upload
+[10:50:16] INFO:    C://sensorRakesh2.txtcheck fails
+[10:50:16] INFO:    SSH connection shutdown
+
+=============== [2014/07/01 10:50:26, net.neoremind.sshxcute.core.SSHExec.<clinit>:80] ====================
+
+[10:50:26] INFO:    SSHExec initializing ...
+[10:50:26] INFO:    Session initialized and associated with user credential group4
+[10:50:26] INFO:    SSHExec initialized successfully
+[10:50:26] INFO:    SSHExec trying to connect group4@134.193.136.127
+[10:50:28] INFO:    SSH connection established
+[10:50:28] INFO:    Ready to transfer local file 'C:\sensorRakesh2.txt' to server directory '/home/cloudera/'
+[10:50:28] INFO:    Connection channel established succesfully
+[10:50:28] INFO:    Start to upload
+[10:50:28] INFO:    C:\sensorRakesh2.txtcheck fails
+[10:50:28] INFO:    SSH connection shutdown
+
+=============== [2014/07/01 10:50:51, net.neoremind.sshxcute.core.SSHExec.<clinit>:80] ====================
+
+[10:50:51] INFO:    SSHExec initializing ...
+[10:50:51] INFO:    Session initialized and associated with user credential group4
+[10:50:51] INFO:    SSHExec initialized successfully
+[10:50:51] INFO:    SSHExec trying to connect group4@134.193.136.127
+[10:50:53] INFO:    SSH connection established
+[10:50:53] INFO:    Ready to transfer local file 'C:/sensorRakesh2.txt' to server directory '/home/cloudera/'
+[10:50:53] INFO:    Connection channel established succesfully
+[10:50:53] INFO:    Start to upload
+[10:50:53] INFO:    C:/sensorRakesh2.txtcheck fails
+[10:50:53] INFO:    SSH connection shutdown
+
+=============== [2014/07/01 10:53:18, net.neoremind.sshxcute.core.SSHExec.<clinit>:80] ====================
+
+[10:53:18] INFO:    SSHExec initializing ...
+[10:53:18] INFO:    Session initialized and associated with user credential group4
+[10:53:18] INFO:    SSHExec initialized successfully
+[10:53:18] INFO:    SSHExec trying to connect group4@134.193.136.127
+[10:53:20] INFO:    SSH connection established
+[10:53:21] INFO:    Ready to transfer local file 'sensorRakesh2.txt' to server directory '/home/cloudera/'
+[10:53:21] INFO:    Connection channel established succesfully
+[10:53:21] INFO:    Start to upload
+[10:53:21] INFO:    sensorRakesh2.txtcheck fails
+[10:53:21] INFO:    SSH connection shutdown
+
+=============== [2014/07/01 10:53:42, net.neoremind.sshxcute.core.SSHExec.<clinit>:80] ====================
+
+[10:53:42] INFO:    SSHExec initializing ...
+[10:53:42] INFO:    Session initialized and associated with user credential group4
+[10:53:42] INFO:    SSHExec initialized successfully
+[10:53:42] INFO:    SSHExec trying to connect group4@134.193.136.127
+[10:53:45] INFO:    SSH connection established
+[10:53:45] INFO:    Ready to transfer local file 'sensorRakesh2.txt' to server directory '/home/cloudera/'
+[10:53:45] INFO:    Connection channel established succesfully
+[10:53:45] INFO:    Start to upload
+[10:53:45] INFO:    sensorRakesh2.txtcheck fails
+[10:53:45] INFO:    SSH connection shutdown
+
+=============== [2014/07/01 10:53:58, net.neoremind.sshxcute.core.SSHExec.<clinit>:80] ====================
+
+[10:53:58] INFO:    SSHExec initializing ...
+[10:53:58] INFO:    Session initialized and associated with user credential group4
+[10:53:58] INFO:    SSHExec initialized successfully
+[10:53:58] INFO:    SSHExec trying to connect group4@134.193.136.127
+[10:54:01] INFO:    SSH connection established
+[10:54:01] INFO:    Ready to transfer local file 'sensorRakesh2.txt' to server directory '/home/cloudera'
+[10:54:01] INFO:    Connection channel established succesfully
+[10:54:01] INFO:    Start to upload
+[10:54:01] INFO:    sensorRakesh2.txtcheck fails
+[10:54:01] INFO:    SSH connection shutdown
+
+=============== [2014/07/01 10:55:05, net.neoremind.sshxcute.core.SSHExec.<clinit>:80] ====================
+
+[10:55:05] INFO:    SSHExec initializing ...
+[10:55:05] INFO:    Session initialized and associated with user credential group4
+[10:55:05] INFO:    SSHExec initialized successfully
+[10:55:05] INFO:    SSHExec trying to connect group4@134.193.136.127
+[10:55:08] INFO:    SSH connection established
+[10:55:08] INFO:    Ready to transfer local file 'c://sensorRakesh2.txt' to server directory '/home/group6/'
+[10:55:08] INFO:    Connection channel established succesfully
+[10:55:08] INFO:    Start to upload
+[10:55:08] INFO:    c://sensorRakesh2.txtcheck fails
+[10:55:08] INFO:    SSH connection shutdown
+
+=============== [2014/07/01 10:56:25, net.neoremind.sshxcute.core.SSHExec.<clinit>:80] ====================
+
+[10:56:25] INFO:    SSHExec initializing ...
+[10:56:25] INFO:    Session initialized and associated with user credential group4
+[10:56:25] INFO:    SSHExec initialized successfully
+[10:56:25] INFO:    SSHExec trying to connect group4@134.193.136.127
+[10:56:28] INFO:    SSH connection established
+[10:56:28] INFO:    Ready to transfer local file 'C://sensor.txt' to server directory '/home/group6/'
+[10:56:28] INFO:    Connection channel established succesfully
+[10:56:28] INFO:    Start to upload
+[10:56:28] INFO:    C://sensor.txtcheck fails
+[10:56:28] INFO:    SSH connection shutdown
